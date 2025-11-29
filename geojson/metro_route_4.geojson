@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -73.561013,
+              45.515191
+            ],
+            [
+              -73.533127,
+              45.512429
+            ],
+            [
+              -73.522098,
+              45.52489
+            ]
+          ],
+          [
+            [
+              -73.522098,
+              45.52489
+            ],
+            [
+              -73.533127,
+              45.512429
+            ],
+            [
+              -73.561013,
+              45.515191
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "route_id": 4,
+        "route_short_name": 4,
+        "route_long_name": "Ligne 4 - Jaune",
+        "route_type": 1,
+        "route_color": "FFD900",
+        "route_text_color": "000000",
+        "route_url": "http://www.stm.info/fr/infos/reseaux/metro/jaune"
+      }
+    }
+  ]
+}

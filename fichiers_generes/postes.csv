@@ -1,0 +1,104 @@
+no,type,poste
+0.00,Maire de la Ville de MontrÃ©al,Maire de la Ville de MontrÃ©al
+1.00,Maire d'arrondissement,Mairie de l'arrondissement d'Ahuntsic-Cartierville 
+1.10,Conseiller de ville,District Ã©lectoral du Sault-au-RÃ©collet  
+1.20,Conseiller de ville,District Ã©lectoral de Saint-Sulpice
+1.30,Conseiller de ville,District Ã©lectoral d'Ahuntsic
+1.40,Conseiller de ville,District Ã©lectoral de Bordeaux-Cartierville 
+2.00,Maire d'arrondissement,Mairie de l'arrondissement d'Anjou
+2.01,Conseiller de ville,Conseiller de ville arrondissement d'Anjou
+2.10,Conseiller d'arrondissement,District Ã©lectoral de l'Ouest 
+2.20,Conseiller d'arrondissement,District Ã©lectoral de l'Est
+2.30,Conseiller d'arrondissement,District Ã©lectoral du centre 
+3.00,Maire d'arrondissement,Mairie de l'arrondissement de CÃ´te-des-Neigesâ€“Notre-Dame-de-GrÃ¢ce 
+3.10,Conseiller de ville,District Ã©lectoral de Darlington 
+3.20,Conseiller de ville,District Ã©lectoral de CÃ´te-des-Neiges 
+3.30,Conseiller de ville,District Ã©lectoral de Snowdon 
+3.40,Conseiller de ville,District Ã©lectoral de Notre-Dame-de-GrÃ¢ce 
+3.50,Conseiller de ville,District Ã©lectoral de Loyola 
+4.00,Maire d'arrondissement,Mairie de l'arrondissement de Lachine 
+4.01,Conseiller de ville,Conseiller de ville arrondissement de Lachine 
+4.10,Conseiller d'arrondissement,District Ã©lectoral du Canal 
+4.20,Conseiller d'arrondissement,District Ã©lectoral de J.-Ã‰mery-Provost 
+4.30,Conseiller d'arrondissement,District Ã©lectoral du Fort-Rolland 
+5.00,Maire d'arrondissement,Mairie de l'arrondissement de LaSalle 
+5.10,Conseiller de ville,District Ã©lectoral du Sault-Saint-Louis 
+5.11,Conseiller d'arrondissement,District Ã©lectoral du Sault-Saint-Louis (siÃ¨ge 1) 
+5.12,Conseiller d'arrondissement,District Ã©lectoral du Sault-Saint-Louis (siÃ¨ge 2) 
+5.20,Conseiller de ville,District Ã©lectoral de Cecil-P.-Newman 
+5.21,Conseiller d'arrondissement,District Ã©lectoral de Cecil-P.-Newman (siÃ¨ge 1) 
+5.22,Conseiller d'arrondissement,District Ã©lectoral de Cecil-P.-Newman (siÃ¨ge 2) 
+6.00,Maire d'arrondissement,Mairie de l'arrondissement de L'ÃŽle-Bizardâ€“Sainte-GeneviÃ¨ve 
+6.10,Conseiller d'arrondissement,District Ã©lectoral de Pierre-Foretier 
+6.20,Conseiller d'arrondissement,District Ã©lectoral de Denis-Benjamin-Viger 
+6.30,Conseiller d'arrondissement,District Ã©lectoral de Jacques-Bizard 
+6.40,Conseiller d'arrondissement,District Ã©lectoral de Sainte-GeneviÃ¨ve
+7.00,Maire d'arrondissement,Mairie de l'arrondissement de Mercierâ€“Hochelaga-Maisonneuve 
+7.10,Conseiller de ville,District Ã©lectoral de TÃ©treaultville 
+7.20,Conseiller de ville,District Ã©lectoral de Maisonneuveâ€“Longue-Pointe 
+7.30,Conseiller de ville,District Ã©lectoral d'Hochelaga 
+7.40,Conseiller de ville,District Ã©lectoral de Louis-Riel
+8.00,Maire d'arrondissement,Mairie de l'arrondissement de MontrÃ©al-Nord 
+8.10,Conseiller de ville,District Ã©lectoral de Marie-Clarac 
+8.11,Conseiller d'arrondissement,District Ã©lectoral de Marie-Clarac 
+8.20,Conseiller de ville,District Ã©lectoral d'Ovide-Clermont 
+8.21,Conseiller d'arrondissement,District Ã©lectoral d'Ovide-Clermont 
+9.00,Maire d'arrondissement,Mairie de l'arrondissement d'Outremont 
+9.10,Conseiller d'arrondissement,District Ã©lectoral de Claude-Ryan 
+9.20,Conseiller d'arrondissement,District Ã©lectoral de Joseph-Beaubien 
+9.30,Conseiller d'arrondissement,District Ã©lectoral de Robert-Bourassa 
+9.40,Conseiller d'arrondissement,District Ã©lectoral de Jeanne-SauvÃ©
+10.00,Maire d'arrondissement,Mairie de l'arrondissement de Pierrefonds-Roxboro 
+10.10,Conseiller de ville,District Ã©lectoral du Bois-de-Liesse
+10.11,Conseiller d'arrondissement,District Ã©lectoral du Bois-de-Liesse
+10.20,Conseiller de ville,District Ã©lectoral du Cap-Saint-Jacques
+10.21,Conseiller d'arrondissement,District Ã©lectoral du Cap-Saint-Jacques
+11.00,Maire d'arrondissement,Mairie de l'arrondissement du Plateau-Mont-Royal 
+11.10,Conseiller de ville,District Ã©lectoral du Mile-End 
+11.11,Conseiller d'arrondissement,District Ã©lectoral du Mile-End 
+11.20,Conseiller de ville,District Ã©lectoral de De Lorimier 
+11.21,Conseiller d'arrondissement,District Ã©lectoral de De Lorimier 
+11.30,Conseiller de ville,District Ã©lectoral de Jeanne-Mance
+11.31,Conseiller d'arrondissement,District Ã©lectoral de Jeanne-Mance
+12.00,Maire d'arrondissement,Mairie de l'arrondissement de RiviÃ¨re-des-Prairiesâ€“Pointe-aux-Trembles 
+12.10,Conseiller de ville,District Ã©lectoral de La Pointe-aux-Prairies 
+12.11,Conseiller d'arrondissement,District Ã©lectoral de La Pointe-aux-Prairies 
+12.20,Conseiller de ville,District Ã©lectoral de Pointe-aux-Trembles 
+12.21,Conseiller d'arrondissement,District Ã©lectoral de Pointe-aux-Trembles 
+12.30,Conseiller de ville,District Ã©lectoral de RiviÃ¨re-des-Prairies 
+12.31,Conseiller d'arrondissement,District Ã©lectoral de RiviÃ¨re-des-Prairies
+13.00,Maire d'arrondissement,Mairie de l'arrondissement de Rosemontâ€“La Petite-Patrie 
+13.10,Conseiller de ville,District Ã©lectoral de Saint-Ã‰douard 
+13.20,Conseiller de ville,District Ã©lectoral d'Ã‰tienne-Desmarteau
+13.30,Conseiller de ville,District Ã©lectoral du Vieux-Rosemont 
+13.40,Conseiller de ville,District Ã©lectoral de Marie-Victorin
+14.00,Maire d'arrondissement,Mairie de l'arrondissement de Saint-Laurent 
+14.10,Conseiller de ville,District Ã©lectoral de la CÃ´te-de-Liesse 
+14.11,Conseiller d'arrondissement,District Ã©lectoral de la CÃ´te-de-Liesse 
+14.20,Conseiller de ville,District Ã©lectoral de Norman-McLaren 
+14.21,Conseiller d'arrondissement,District Ã©lectoral de Norman-McLaren 
+15.00,Maire d'arrondissement,Mairie de l'arrondissement de Saint-LÃ©onard 
+15.10,Conseiller de ville,District Ã©lectoral de Saint-LÃ©onard-Est 
+15.11,Conseiller d'arrondissement,District Ã©lectoral de Saint-LÃ©onard-Est 
+15.20,Conseiller de ville,District Ã©lectoral de Saint-LÃ©onard-Ouest 
+15.21,Conseiller d'arrondissement,District Ã©lectoral de Saint-LÃ©onard-Ouest 
+16.00,Maire d'arrondissement,Mairie de l'arrondissement du Sud-Ouest 
+16.10,Conseiller de ville,District Ã©lectoral de Saint-Henri-Estâ€“Petite-Bourgogneâ€“Pointe-Saint-Charlesâ€“Griffintown
+16.11,Conseiller d'arrondissement,District Ã©lectoral de Saint-Henri-Estâ€“Petite-Bourgogneâ€“Pointe-Saint-Charlesâ€“Griffintown
+16.20,Conseiller de ville,District Ã©lectoral de Saint-Paulâ€“Ã‰mardâ€“Saint-Henri-Ouest
+16.21,Conseiller d'arrondissement,District Ã©lectoral de Saint-Paulâ€“Ã‰mardâ€“Saint-Henri-Ouest
+17.00,Maire d'arrondissement,Mairie de l'arrondissement de Verdun 
+17.10,Conseiller de ville,District Ã©lectoral de Champlainâˆ’L'ÃŽle-des-Soeurs 
+17.11,Conseiller d'arrondissement,District Ã©lectoral de Champlainâˆ’L'ÃŽle-des-Soeurs (siÃ¨ge 1) 
+17.12,Conseiller d'arrondissement,District Ã©lectoral de Champlainâˆ’L'ÃŽle-des-Soeurs (siÃ¨ge 2) 
+17.20,Conseiller de ville,District Ã©lectoral de Desmarchais-Crawford 
+17.21,Conseiller d'arrondissement,District Ã©lectoral de Desmarchais-Crawford (siÃ¨ge 1) 
+17.22,Conseiller d'arrondissement,District Ã©lectoral de Desmarchais-Crawford (siÃ¨ge 2)
+18.10,Conseiller de ville,District Ã©lectoral de Peter-McGill 
+18.20,Conseiller de ville,District Ã©lectoral de Saint-Jacques 
+18.30,Conseiller de ville,District Ã©lectoral de Sainte-Marie 
+19.00,Maire d'arrondissement,Mairie de l'arrondissement de Villerayâ€“Saint-Michelâ€“Parc-Extension 
+19.10,Conseiller de ville,District Ã©lectoral de Saint-Michel
+19.20,Conseiller de ville,District Ã©lectoral de FranÃ§ois-Perrault 
+19.30,Conseiller de ville,District Ã©lectoral de Villeray 
+19.40,Conseiller de ville,District Ã©lectoral de Parc-Extension 

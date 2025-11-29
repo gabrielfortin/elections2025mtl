@@ -1,0 +1,104 @@
+no,type,poste
+0.00,Mairie -,Ville de Montréal
+1.00,Mairie d'arrondissement,Mairie de l'arrondissement d'Ahuntsic-Cartierville 
+1.10,AC - Conseiller-e de ville,District électoral du Sault-au-Récollet  
+1.20,AC - Conseiller-e de ville,District électoral de Saint-Sulpice
+1.30,AC - Conseiller-e de ville,District électoral d'Ahuntsic
+1.40,AC - Conseiller-e de ville,District électoral de Bordeaux-Cartierville 
+2.00,Mairie d'arrondissement,Mairie de l'arrondissement d'Anjou
+2.01,Anjou - Conseiller-e de ville,Conseiller-e de ville arrondissement d'Anjou
+2.10,Anjou - Conseiller-e d'arrondissement,District électoral de l'Ouest 
+2.20,Anjou - Conseiller-e d'arrondissement,District électoral de l'Est
+2.30,Anjou - Conseiller-e d'arrondissement,District électoral du centre 
+3.00,Mairie d'arrondissement,Mairie de l'arrondissement de Côte-des-Neiges - Notre-Dame-de-GrÃ¢ce 
+3.10,CDN-NDG - Conseiller-e de ville,District électoral de Darlington 
+3.20,CDN-NDG - Conseiller-e de ville,District électoral de Côte-des-Neiges 
+3.30,CDN-NDG - Conseiller-e de ville,District électoral de Snowdon 
+3.40,CDN-NDG - Conseiller-e de ville,District électoral de Notre-Dame-de-GrÃ¢ce 
+3.50,CDN-NDG - Conseiller-e de ville,District électoral de Loyola 
+4.00,Mairie d'arrondissement,Mairie de l'arrondissement de Lachine 
+4.01,Lachine - Conseiller-e de ville,Conseiller-e de ville arrondissement de Lachine 
+4.10,Lachine - Conseiller-e d'arrondissement,District électoral du Canal 
+4.20,Lachine - Conseiller-e d'arrondissement,District électoral de J.-Émery-Provost 
+4.30,Lachine - Conseiller-e d'arrondissement,District électoral du Fort-Rolland 
+5.00,Mairie d'arrondissement,Mairie de l'arrondissement de LaSalle 
+5.10,LaSalle - Conseiller-e de ville,District électoral du Sault-Saint-Louis 
+5.11,LaSalle - Conseiller-e d'arrondissement,District électoral du Sault-Saint-Louis (siège 1) 
+5.12,LaSalle - Conseiller-e d'arrondissement,District électoral du Sault-Saint-Louis (siège 2) 
+5.20,LaSalle - Conseiller-e de ville,District électoral de Cecil-P.-Newman 
+5.21,LaSalle - Conseiller-e d'arrondissement,District électoral de Cecil-P.-Newman (siège 1) 
+5.22,LaSalle - Conseiller-e d'arrondissement,District électoral de Cecil-P.-Newman (siège 2) 
+6.00,Mairie d'arrondissement,Mairie de l'arrondissement de L'Île-Bizard - Sainte-Geneviève 
+6.10,IBSG - Conseiller-e d'arrondissement,District électoral de Pierre-Foretier 
+6.20,IBSG - Conseiller-e d'arrondissement,District électoral de Denis-Benjamin-Viger 
+6.30,IBSG - Conseiller-e d'arrondissement,District électoral de Jacques-Bizard 
+6.40,IBSG - Conseiller-e d'arrondissement,District électoral de Sainte-Geneviève
+7.00,Mairie d'arrondissement,Mairie de l'arrondissement de Mercier - Hochelaga-Maisonneuve 
+7.10,MHM - Conseiller-e de ville,District électoral de Tétreaultville 
+7.20,MHM - Conseiller-e de ville,District électoral de Maisonneuve - Longue-Pointe 
+7.30,MHM - Conseiller-e de ville,District électoral d'Hochelaga 
+7.40,MHM - Conseiller-e de ville,District électoral de Louis-Riel
+8.00,Mairie d'arrondissement,Mairie de l'arrondissement de Montréal-Nord 
+8.10,MN - Conseiller-e de ville,District électoral de Marie-Clarac 
+8.11,MN - Conseiller-e d'arrondissement,District électoral de Marie-Clarac 
+8.20,MN - Conseiller-e de ville,District électoral d'Ovide-Clermont 
+8.21,MN - Conseiller-e d'arrondissement,District électoral d'Ovide-Clermont 
+9.00,Mairie d'arrondissement,Mairie de l'arrondissement d'Outremont 
+9.10,Outremont - Conseiller-e d'arrondissement,District électoral de Claude-Ryan 
+9.20,Outremont - Conseiller-e d'arrondissement,District électoral de Joseph-Beaubien 
+9.30,Outremont - Conseiller-e d'arrondissement,District électoral de Robert-Bourassa 
+9.40,Outremont - Conseiller-e d'arrondissement,District électoral de Jeanne-Sauvé
+10.00,Mairie d'arrondissement,Mairie de l'arrondissement de Pierrefonds-Roxboro 
+10.10,PRox - Conseiller-e de ville,District électoral du Bois-de-Liesse
+10.11,PRox - Conseiller-e d'arrondissement,District électoral du Bois-de-Liesse
+10.20,PRox - Conseiller-e de ville,District électoral du Cap-Saint-Jacques
+10.21,PRox - Conseiller-e d'arrondissement,District électoral du Cap-Saint-Jacques
+11.00,Mairie d'arrondissement,Mairie de l'arrondissement du Plateau-Mont-Royal 
+11.10,PMR - Conseiller-e de ville,District électoral du Mile-End 
+11.11,PMR - Conseiller-e d'arrondissement,District électoral du Mile-End 
+11.20,PMR - Conseiller-e de ville,District électoral de De Lorimier 
+11.21,PMR - Conseiller-e d'arrondissement,District électoral de De Lorimier 
+11.30,PMR - Conseiller-e de ville,District électoral de Jeanne-Mance
+11.31,PMR - Conseiller-e d'arrondissement,District électoral de Jeanne-Mance
+12.00,Mairie d'arrondissement,Mairie de l'arrondissement de Rivière-des-Prairies - Pointe-aux-Trembles 
+12.10,RDP-PAT - Conseiller-e de ville,District électoral de La Pointe-aux-Prairies 
+12.11,RDP-PAT - Conseiller-e d'arrondissement,District électoral de La Pointe-aux-Prairies 
+12.20,RDP-PAT - Conseiller-e de ville,District électoral de Pointe-aux-Trembles 
+12.21,RDP-PAT - Conseiller-e d'arrondissement,District électoral de Pointe-aux-Trembles 
+12.30,RDP-PAT - Conseiller-e de ville,District électoral de Rivière-des-Prairies 
+12.31,RDP-PAT - Conseiller-e d'arrondissement,District électoral de Rivière-des-Prairies
+13.00,Mairie d'arrondissement,Mairie de l'arrondissement de Rosemont - La Petite-Patrie 
+13.10,RPP - Conseiller-e de ville,District électoral de Saint-Édouard 
+13.20,RPP - Conseiller-e de ville,District électoral d'Étienne-Desmarteau
+13.30,RPP - Conseiller-e de ville,District électoral du Vieux-Rosemont 
+13.40,RPP - Conseiller-e de ville,District électoral de Marie-Victorin
+14.00,Mairie d'arrondissement,Mairie de l'arrondissement de Saint-Laurent 
+14.10,Saint-Laurent - Conseiller-e de ville,District électoral de la Côte-de-Liesse 
+14.11,Saint-Laurent - Conseiller-e d'arrondissement,District électoral de la Côte-de-Liesse 
+14.20,Saint-Laurent - Conseiller-e de ville,District électoral de Norman-McLaren 
+14.21,Saint-Laurent - Conseiller-e d'arrondissement,District électoral de Norman-McLaren 
+15.00,Mairie d'arrondissement,Mairie de l'arrondissement de Saint-Léonard 
+15.10,Saint-Léonard - Conseiller-e de ville,District électoral de Saint-Léonard-Est 
+15.11,Saint-Léonard - Conseiller-e d'arrondissement,District électoral de Saint-Léonard-Est 
+15.20,Saint-Léonard - Conseiller-e de ville,District électoral de Saint-Léonard-Ouest 
+15.21,Saint-Léonard - Conseiller-e d'arrondissement,District électoral de Saint-Léonard-Ouest 
+16.00,Mairie d'arrondissement,Mairie de l'arrondissement du Sud-Ouest 
+16.10,Sud-Ouest - Conseiller-e de ville,District électoral de Saint-Henri-Est - Petite-Bourgogne - Pointe-Saint-Charles - Griffintown
+16.11,Sud-Ouest - Conseiller-e d'arrondissement,District électoral de Saint-Henri-Est - Petite-Bourgogne - Pointe-Saint-Charles - Griffintown
+16.20,Sud-Ouest - Conseiller-e de ville,District électoral de Saint-Paul - Émard - Saint-Henri-Ouest
+16.21,Sud-Ouest - Conseiller-e d'arrondissement,District électoral de Saint-Paul - Émard - Saint-Henri-Ouest
+17.00,Mairie d'arrondissement,Mairie de l'arrondissement de Verdun 
+17.10,Verdun - Conseiller-e de ville,District électoral de Champlain - L'Île-des-Soeurs 
+17.11,Verdun - Conseiller-e d'arrondissement,District électoral de Champlain - L'Île-des-Soeurs (siège 1) 
+17.12,Verdun - Conseiller-e d'arrondissement,District électoral de Champlain - L'Île-des-Soeurs (siège 2) 
+17.20,Verdun - Conseiller-e de ville,District électoral de Desmarchais-Crawford 
+17.21,Verdun - Conseiller-e d'arrondissement,District électoral de Desmarchais-Crawford (siège 1) 
+17.22,Verdun - Conseiller-e d'arrondissement,District électoral de Desmarchais-Crawford (siège 2)
+18.10,Ville-Marie - Conseiller-e de ville,District électoral de Peter-McGill 
+18.20,Ville-Marie - Conseiller-e de ville,District électoral de Saint-Jacques 
+18.30,Ville-Marie - Conseiller-e de ville,District électoral de Sainte-Marie 
+19.00,Mairie d'arrondissement,Mairie de l'arrondissement de Villeray - Saint-Michel - Parc-Extension 
+19.10,VSMPE - Conseiller-e de ville,District électoral de Saint-Michel
+19.20,VSMPE - Conseiller-e de ville,District électoral de François-Perrault 
+19.30,VSMPE - Conseiller-e de ville,District électoral de Villeray 
+19.40,VSMPE - Conseiller-e de ville,District électoral de Parc-Extension 
